@@ -1,6 +1,0 @@
-module Pods_pingme_pingmeTests {
-  umbrella header "Pods-pingme-pingmeTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
